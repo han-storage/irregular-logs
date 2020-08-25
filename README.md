@@ -11,7 +11,8 @@ All updates will base on my daily life and the very first commits will be the sy
 沙雕老瀚，香港中文大学信息工程系本科四年级学生，一个天天只知道叫“信工好啊，信工妙啊”，其实什么都不会的沙雕。目前状况是母胎单身21年（年龄长得挺快啊），GPA挺低的，然后只会
 
 ```C++
-do{
+do
+{
     shadiao(anything);
 }while(true);
 ```
