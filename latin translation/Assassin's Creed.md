@@ -4,7 +4,7 @@ Cum ceteri veritatem temere accedunt, memorare:
 
 当其他人盲目追寻真相和真实的时候，记住：
 
-Nihil verum est.
+Nihil est verum.
 
 万物皆虚。
 
@@ -12,7 +12,7 @@ Cum ceteri legibus moribusve limitantur, memorare:
 
 当其他人受到法律和道德的束缚的时候，记住：
 
-Omnia permissa sunt.
+Concessa sunt omnia.
 
 万事皆允
 
